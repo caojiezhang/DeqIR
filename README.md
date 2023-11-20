@@ -1,14 +1,12 @@
 ## Deep Equilibrium Diffusion Restoration with Parallel Sampling
-
-[Paper](https://arxiv.org/abs/)
+[![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/)
+[![visitors](https://visitor-badge.laobi.icu/badge?page_id=caojiezhang/DeqIR)
 
 [Jiezhang Cao](https://www.jiezhangcao.com/), [Yue Shi](https://scholar.google.com/citations?user=BrQQHiEAAAAJ&hl=en), [Kai Zhang](https://cszn.github.io/), [Yulun Zhang](http://yulunzhang.com/), Radu Timofte](http://people.ee.ethz.ch/~timofter/), [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)
 
 Computer Vision Lab, ETH Zurich
 
 ---
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=caojiezhang/DeqIR) 
 
 > **Abstract:** Diffusion-based image restoration (IR) methods aim to use diffusion models to recover high-quality (HQ) images from degraded images and achieve promising performance. Due to the inherent property of diffusion models, most of these methods need long serial sampling chains to restore HQ images step-by-step. As a result, it leads to expensive sampling time and high computation costs. Moreover, such long sampling chains hinder understanding the relationship between the restoration results and the inputs since it is hard to compute the gradients in the whole chains. In this work, we aim to rethink the diffusion-based IR models through a different perspective, i.e., a deep equilibrium (DEQ) fixed point system. Specifically, we derive an analytical solution by modeling the entire sampling chain in diffusion-based IR models as a joint multivariate fixed point system. With the help of the analytical solution, we are able to conduct single-image sampling in a parallel way and restore HQ images without training. Furthermore, we compute fast gradients in DEQ and found that initialization optimization can boost performance and control the generation direction. Extensive experiments on benchmarks demonstrate the effectiveness of our proposed method on typical IR tasks and real-world settings. 
 ![](figs/comp_sampling.png)
