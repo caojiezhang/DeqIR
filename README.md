@@ -65,7 +65,7 @@ We achieved state-of-the-art performance on many image restoration tasks. More r
   <img width="900" src="figs/fig_diversity.png">
 </p>
 
-- Inversion
+- Initialization optimization via Inversion
 <p align="center">
   <img width="900" src="figs/fig_inv.png">
 </p>
