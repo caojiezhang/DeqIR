@@ -85,10 +85,10 @@ We achieved state-of-the-art performance on many image restoration tasks. More r
 If you find the code helpful in your resarch or work, please cite the following paper(s).
 
 ```
-@article{cao2023deqir,
+@article{cao2024deqir,
     title   = {Deep Equilibrium Diffusion Restoration with Parallel Sampling}, 
     author  = {Jiezhang Cao and Yue Shi and Kai Zhang and Yulun Zhang and Radu Timofte and Luc Van Gool},
-    journal = {arxiv},
-    year    = {2023},
+    journal = {CVPR},
+    year    = {2024},
 }
 ```
