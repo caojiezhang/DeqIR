@@ -1,5 +1,6 @@
 ## Deep Equilibrium Diffusion Restoration with Parallel Sampling
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2311.11600)
+[![download](https://img.shields.io/github/downloads/caojiezhang/DeqIR/total.svg)](https://github.com/caojiezhang/DeqIR/releases)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=caojiezhang/DeqIR)
 
 [Jiezhang Cao](https://scholar.google.com/citations?hl=en&user=IFYbb7oAAAAJ&view_op=list_works&sortby=pubdate), 
@@ -9,6 +10,8 @@
 [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)
 
 Computer Vision Lab, ETH Zurich
+
+I will release code next week.
 
 ---
 
