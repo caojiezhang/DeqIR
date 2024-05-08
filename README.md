@@ -1,5 +1,6 @@
 ## Deep Equilibrium Diffusion Restoration with Parallel Sampling (CVPR 2024)
 [![arXiv](https://img.shields.io/badge/arXiv-Paper-<COLOR>.svg)](https://arxiv.org/abs/2311.11600)
+[![download](https://img.shields.io/github/downloads/caojiezhang/DeqIR/total.svg)](https://github.com/caojiezhang/DeqIR/releases)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=caojiezhang/DeqIR)
 
 [Jiezhang Cao](https://www.jiezhangcao.com/), [Yue Shi](https://scholar.google.com/citations?user=BrQQHiEAAAAJ&hl=en), [Kai Zhang](https://cszn.github.io/), [Yulun Zhang](http://yulunzhang.com/), [Radu Timofte](https://www.informatik.uni-wuerzburg.de/computervision/), [Luc Van Gool](https://scholar.google.com/citations?user=TwMib_QAAAAJ&hl=en)
