@@ -62,7 +62,7 @@ python main.py --config celeba_hq.yml --model Diffusion --exp experiments/ --out
 
 ## 🔎 Results
 
-We achieved state-of-the-art performance on many image restoration tasks. More results can be found in the paper.
+We apply DeqIR in some image restoration tasks. More results can be found in the paper.
 
 <details>
 
@@ -84,7 +84,7 @@ We achieved state-of-the-art performance on many image restoration tasks. More r
 
 ## 📎 Citation
 
-If you find the code helpful in your resarch or work, please cite the following paper(s).
+If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
 @article{cao2024deqir,
