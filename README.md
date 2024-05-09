@@ -56,7 +56,7 @@ wget https://openaipublic.blob.core.windows.net/diffusion/jul-2021/256x256_diffu
 # usage
 python main.py --config {DATASET}.yml --model Diffusion --exp {PROJECT_PATH} --out_name {OUT_NAME} --doc {DATASET} --sample --deg {DEGRADATION} --scale {SCALE} --timesteps {STEPS} --use_svd --etw {etw}
 
-# For example
+# For example: Deblurring
 python main.py --config celeba_hq.yml --model Diffusion --exp experiments/ --out_name outputs_proj --doc celeba --sample --deg 'deblur_gauss' --timesteps 25 --use_svd --etw 0.1
 ```
 
