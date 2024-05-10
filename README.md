@@ -68,16 +68,16 @@ We apply DeqIR in some image restoration tasks. More results can be found in the
 <details>
 
 <p align="center">
-  <img width="100%" src="figs/sr.gif">
+  <img width="50%" src="figs/sr.gif">
 </p>
 <p align="center">
-  <img width="100%" src="figs/deblurring.gif">
+  <img width="50%" src="figs/deblurring.gif">
 </p>
 <p align="center">
-  <img width="900" src="figs/inpainting.gif">
+  <img width="50%" src="figs/inpainting.gif">
 </p>
 <p align="center">
-  <img width="900" src="figs/colorization.gif">
+  <img width="50%" src="figs/colorization.gif">
 </p>
 
 
