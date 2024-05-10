@@ -20,7 +20,7 @@ Computer Vision Lab, ETH Zurich
 ## 🔗 Contents
 
 - [x] [Installation](#Installation)
-- [x] [Pre-trained Models](#Pre-trained)
+- [x] [Pre-trained Models](#Pre-trained%20Models)
 - [x] [Inference](#Inference)
 - [x] [Results](#Results)
 - [x] [Citation](#Citation)
