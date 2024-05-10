@@ -97,6 +97,6 @@ If you find the code helpful in your research or work, please cite the following
 ```
 This implementation is based on / inspired by:
 
-> - [https://github.com/locuslab/deq-ddim](https://github.com/locuslab/deq-ddim)
-> - [https://github.com/wyhuai/DDNM](https://github.com/wyhuai/DDNM)
-> - [https://github.com/bahjat-kawar/ddrm](https://github.com/bahjat-kawar/ddrm)
+- [https://github.com/locuslab/deq-ddim](https://github.com/locuslab/deq-ddim)
+- [https://github.com/wyhuai/DDNM](https://github.com/wyhuai/DDNM)
+- [https://github.com/bahjat-kawar/ddrm](https://github.com/bahjat-kawar/ddrm)
