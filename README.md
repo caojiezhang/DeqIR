@@ -36,7 +36,8 @@ Computer Vision Lab, ETH Zurich
 # download code
 git clone https://github.com/caojiezhang/DeqIR
 cd DeqIR
-pip install -r requirements.txt
+conda create --name <env> --file requirements.txt
+conda activate <env>
 ```
 
 ## Pre-trained Models
