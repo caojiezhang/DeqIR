@@ -19,9 +19,9 @@ Computer Vision Lab, ETH Zurich
 
 ## 🔗 Contents
 
-- [x] Installation
-- [x] Pre-trained model
-- [x] Inference
+- [x] [Installation](#Installation)
+- [x] [Pre-trained Models](#Pre-trained Models)
+- [x] [Inference](#Inference)
 - [x] [Results](#Results)
 - [x] [Citation](#Citation)
 
@@ -88,10 +88,10 @@ We apply DeqIR in some image restoration tasks. More results can be found in the
 If you find the code helpful in your research or work, please cite the following paper(s).
 
 ```
-@article{cao2024deqir,
-    title   = {Deep Equilibrium Diffusion Restoration with Parallel Sampling}, 
-    author  = {Jiezhang Cao and Yue Shi and Kai Zhang and Yulun Zhang and Radu Timofte and Luc Van Gool},
-    journal = {CVPR},
-    year    = {2024},
+@InProceedings{cao2024deqir,
+    title     = {Deep Equilibrium Diffusion Restoration with Parallel Sampling}, 
+    author    = {Jiezhang Cao and Yue Shi and Kai Zhang and Yulun Zhang and Radu Timofte and Luc Van Gool},
+    booktitle = {CVPR},
+    year      = {2024},
 }
 ```
