@@ -20,7 +20,7 @@ Computer Vision Lab, ETH Zurich
 ## 🔗 Contents
 
 - [x] [Installation](#Installation)
-- [x] [Pre-trained Models](#Pre-trained%20Models)
+- [x] [Pre-trained Models](#Pre-trained-Models)
 - [x] [Inference](#Inference)
 - [x] [Results](#Results)
 - [x] [Citation](#Citation)
@@ -95,3 +95,5 @@ If you find the code helpful in your research or work, please cite the following
     year      = {2024},
 }
 ```
+This implementation is based on / inspired by:
+[https://github.com/locuslab/deq-ddim](https://github.com/locuslab/deq-ddim)
