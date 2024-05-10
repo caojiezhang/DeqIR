@@ -61,7 +61,7 @@ python main.py --config {DATASET}.yml --model Diffusion --exp {PROJECT_PATH} --o
 python main.py --config celeba_hq.yml --model Diffusion --exp experiments/ --out_name outputs_proj --doc celeba --sample --deg 'deblur_gauss' --timesteps 25 --use_svd --etw 0.1
 ```
 
-## 🔎 Results
+## Results
 
 We apply DeqIR in some image restoration tasks. More results can be found in the paper.
 
@@ -83,7 +83,7 @@ We apply DeqIR in some image restoration tasks. More results can be found in the
 
 </details>
 
-## 📎 Citation
+## Citation
 
 If you find the code helpful in your research or work, please cite the following paper(s).
 
